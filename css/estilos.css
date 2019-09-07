@@ -1,7 +1,11 @@
+  .body {
+    background-color: #f4fbff;
+  }
   .header {
-    border: 2px solid red;
-    background: #f4fbff;
-    height: auto;
+    /* border: 2px solid red; */
+    /* background: #f4fbff; */
+    height: 900px;
+    padding: 10px;
   }
 
   .header a {
@@ -11,6 +15,23 @@
     justify-content: center;
   }
 
+  ol,
   ul {
-    list-style: none; 
+    list-style: none;
+  }
+
+  ol {
+    padding: 20px;
+  }
+
+  .A1 {
+    border: 2px solid red;
+    padding: 10px;
+    margin: 300px 30px 100px;
+  }
+
+  .A2 {
+    border: 2px solid red;
+    padding: 10px;
+    margin: 160px 30px 100px;
   }
