@@ -1,0 +1,16 @@
+  .header {
+    border: 2px solid red;
+    background: #f4fbff;
+    height: auto;
+  }
+
+  .header a {
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  ul {
+    list-style: none; 
+  }
